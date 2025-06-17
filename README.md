@@ -1,16 +1,13 @@
 # YouCook2-JP
 
-# Flickr30kEnt-JP
-©2020, The University of Tokyo
+©2024, The University of Tokyo
 
-Japanese translation of the Flickr30k Entities dataset presented in [our paper at LREC2020](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.518.pdf).
+Japanese translation of the YouCook2 dataset presented in [our paper at LREC2020](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.518.pdf).
 
-Our dataset is based on the original [Flickr30k](http://shannon.cs.illinois.edu/DenotationGraph/) and [Flickr30k Entities](http://bryanplummer.com/Flickr30kEntities/) datasets. We do not own the copyrights of images, English captions, and annotations in these datasets. Please visit the authors' web pages and follow their instructions to download them.
+Our dataset is based on the original [YouCook2](http://youcook2.eecs.umich.edu/) dataset. We do not own the copyrights of videos, English captions, and annotations in YouCook2. Please visit the authors' web pages and follow their instructions to download them.
 
+**(2025 June) We are going to organize [Multimodal English-Japanese Video Translation Task](https://nlab-mpg.github.io/wat2020-mmt-jp/) at [WAT2025](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html)!**
 
-**(2020 July) We are going to have [Multimodal English-Japanese Translation Task](https://nlab-mpg.github.io/wat2020-mmt-jp/) at [WAT2020](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2020/index.html)!**
-
-**(2021 August) We released the full translation of all captions in the original Flickr30k (check our [v2 dataset](Sentences_jp_v2.tgz)).**  
 
 ## License
 Our dataset is released under the [Creative Commons Attribution-ShareAlike (CC BY-SA) license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
