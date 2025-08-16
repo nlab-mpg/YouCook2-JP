@@ -10,7 +10,7 @@ Our dataset is an extention of the original [YouCook2](http://youcook2.eecs.umic
 
 
 ## License
-Our dataset is released under the [Creative Commons Attribution-ShareAlike (CC BY-SA) license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+Our dataset is released under the [MIT license](LICENSE.txt).
 
 ## Dataset Description
 We provide Japanese translations for all English captions in the training and validation splits in YouCook2. (Note that captions of testing data are not made public in YouCook2.)
