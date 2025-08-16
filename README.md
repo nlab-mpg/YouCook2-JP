@@ -15,7 +15,7 @@ Our dataset is released under the [Creative Commons Attribution-ShareAlike (CC B
 ## Dataset Description
 We provide Japanese translations for the English captions in the training and validation splits in YouCook2. (Note that captions of testing data are not made public in YouCook2.)
 
-Japanese captions corresponding to English captions for each segment of each video are stored in a json file.　It follows the same structure and tags as the annotation file provided in YouCook2 (youcookii_annotations_trainval.json).
+Japanese captions corresponding to English captions for each segment of each video are stored in a json file encoded in UTF-8 format.　It follows the same structure and tags as the annotation file provided in YouCook2 (youcookii_annotations_trainval.json).
 
 
 ## Reference
