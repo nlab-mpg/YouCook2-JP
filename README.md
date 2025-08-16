@@ -16,8 +16,10 @@ Our dataset is released under the [Creative Commons Attribution-ShareAlike (CC B
 We provide Japanese translations for all English captions in the training and validation splits in YouCook2. (Note that captions of testing data are not made public in YouCook2.)
 Translation is manually carried out by a professional team in a Japanese translation company, who carefully translate the English captions while referring to the corresponding video to produce high-quality (less ambiguous) and visually-grounded translations.
 
-Japanese captions corresponding to English captions for each segment of each video are stored in a json file encoded in UTF-8 format.　It follows the same structure and tags as the annotation file provided in YouCook2 (youcookii_annotations_trainval.json).
+Japanese captions corresponding to English captions for each segment of each video are stored in a json file encoded in UTF-8 format. It follows the same structure and tags as the annotation file provided in YouCook2 ([youcookii_annotations_trainval.json](http://youcook2.eecs.umich.edu/download)).
 
+- [youcookii_translations_ja_train.json](youcookii_translations_ja_train.json) (training)
+  
 Currently, only the training set has been released since we are using the validation set as the testing dataset for the ongoing [WAT2025 competition](https://nlab-mpg.github.io/wat2025-vct-jp/). We are planning to release the validation set after the competition is finished. 
 
 ## Reference
