@@ -6,7 +6,7 @@ Japanese translation of the [YouCook2](http://youcook2.eecs.umich.edu/) dataset.
 
 Our dataset is an extention of the original [YouCook2](http://youcook2.eecs.umich.edu/) dataset. We do not own the copyrights of raw videos, English captions, and annotations in YouCook2. For the use of data in YouCook2, please refer to their website for details on the contents of the dataset, how to use it, and copyright information.
 
-**(2025 August) We are going to organize [English-Japanese Video Translation Task](https://nlab-mpg.github.io/wat2025-vct-jp/) at [WAT2025](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html)!**
+**(2025 August) We are going to organize [English-Japanese Video Caption Translation Task](https://nlab-mpg.github.io/wat2025-vct-jp/) at [WAT2025](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html)!**
 
 
 ## License
